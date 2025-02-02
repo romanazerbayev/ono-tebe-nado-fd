@@ -38,7 +38,7 @@ html {
 }
 
 .header__links-list-item_no-bullit:before {
-  display: none;  
+  display: none;
 } 
 
 .header__link {
@@ -145,7 +145,6 @@ html {
   font-weight: bold;
   text-transform: uppercase;
   padding-left: 65px;
-
 }
 
 .lots__card-list {
